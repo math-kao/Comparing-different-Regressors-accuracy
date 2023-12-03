@@ -1,0 +1,10 @@
+- I compared different regressor models: SVR, Decision Tree and Random Forest Regressor to analyze which model has the prediction power considering the 'Position_Salaries.csv'
+- I did not applied any tuning hyperparameters, it's using the default parameters. The intention is to analyze the 'raw performance' of each algorithm
+- For SVR model was applied FeatureScaling to standardize the data
+
+Results:
+1st: SVR
+2st: RandomForestRegressor
+3st: DecisioNTreeRegressor
+
+
